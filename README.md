@@ -61,6 +61,3 @@ This project was developed for the **EE2003 Digital Design** course at **Marmara
 ## 📄 Documentation & Report
 For detailed circuit diagrams, simulation waveforms, and the full project report, please view the PDF below:
 [📥 **Download Project Report (PDF)**](docs/Group4ProjectReport.pdf)
-
----
-*License: MIT | Created by Ömer Faruk Kocaoğlu & Team*
